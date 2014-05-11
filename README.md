@@ -110,5 +110,8 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png)
+
+## Four plots has been created with name plot1.png,plot2.png,plot3.png & plot4.png
+## Also corresponding scripts which creates these plots can be found in the files plot1.R,plot2.R,plot3.R & plot4.R 
 
